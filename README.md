@@ -5,5 +5,5 @@
 ## Home Page
 ![splash](https://i.hizliresim.com/12iedqp.png)
 
-## Login Ekranı
+## Music Page
 ![login](https://i.hizliresim.com/9ijmf43.png)
