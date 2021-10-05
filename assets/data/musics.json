@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Ay Dede Senin Evin Nerede",
+    "imgSrc": "assets/images/aydede.jpg",
+    "soundSrc": "sounds/aydede.mp3",
+    "sure": "2:28"
+  },
+  {
+    "name": "Arı Vız Vız Vız",
+    "imgSrc": "assets/images/ari.jpg",
+    "soundSrc": "sounds/ari.mp3",
+    "sure": "1:17"
+  },
+  {
+    "name": "Kırmızı Balık",
+    "imgSrc": "assets/images/kirmizibalik.png",
+    "soundSrc": "sounds/kirmizi-balik.mp3",
+    "sure": "1:25"
+  },
+  {
+    "name": "Gezegenler",
+    "imgSrc": "assets/images/gezegenler.jpg",
+    "soundSrc": "sounds/gezegenler.mp3",
+    "sure": "3:11"
+  },
+  {
+    "name": "Ben Bir Elma Kurduyum",
+    "imgSrc": "assets/images/elmakurdu.jpg",
+    "soundSrc": "sounds/elmakurdu.mp3",
+    "sure": "1:58"
+  },
+  {
+    "name": "Mini Mini Bir Kuş",
+    "imgSrc": "assets/images/minikus.jpg",
+    "soundSrc": "sounds/minikus.mp3",
+    "sure": "1:19"
+  },
+  {
+    "name": "Ali Babanın Bir Çiftliği Var",
+    "imgSrc": "assets/images/alibaba.jpg",
+    "soundSrc": "sounds/alibaba.mp3",
+    "sure": "2:40"
+  },
+  {
+    "name": "Anne Karnım Acıktı",
+    "imgSrc": "assets/images/annekarnim.jpg",
+    "soundSrc": "sounds/annekarnim.mp3",
+    "sure": "2:52"
+  },
+  {
+    "name": "Daha Dün Annemizin",
+    "imgSrc": "assets/images/dahadunannemizin.jpg",
+    "soundSrc": "sounds/dahadunannemizin.mp3",
+    "sure": "1:25"
+  },
+  {
+    "name": "El Ele El Ele Verin Çocuklar",
+    "imgSrc": "assets/images/eleleverin.jpg",
+    "soundSrc": "sounds/eleleverin.mp3",
+    "sure": "1:12"
+  },
+  {
+    "name": "Birgün Birgün Bir Çocuk",
+    "imgSrc": "assets/images/birgunbircocuk.jpg",
+    "soundSrc": "sounds/birgunbircocuk.mp3",
+    "sure": "1:09"
+  },
+  {
+    "name": "Bak Postacı Geliyor",
+    "imgSrc": "assets/images/postacigeliyor.jpg",
+    "soundSrc": "sounds/postacigeliyor.mp3",
+    "sure": "1:32"
+  },
+  {
+    "name": "Virüs Hasta Eder Bizi",
+    "imgSrc": "assets/images/virushastaeder.jpg",
+    "soundSrc": "sounds/virushastaeder.mp3",
+    "sure": "1:36"
+  },
+  {
+    "name": "Pazara Gidelim",
+    "imgSrc": "assets/images/pazaragidelim.jpg",
+    "soundSrc": "sounds/pazaragidelim.mp3",
+    "sure": "1:15"
+  },
+  {
+    "name": "Arkadaşım Eşşek",
+    "imgSrc": "assets/images/arkadasimesek.jpg",
+    "soundSrc": "sounds/arkadasimesek.mp3",
+    "sure": "2:43"
+  },
+  {
+    "name": "Köpeğim Hav Hav Der",
+    "imgSrc": "assets/images/kopekhavhavder.jpg",
+    "soundSrc": "sounds/kopekhavhavder.mp3",
+    "sure": "2:16"
+  },
+  {
+    "name": "Öğretmenim Canım Benim",
+    "imgSrc": "assets/images/ogretmenimcanim.jpg",
+    "soundSrc": "sounds/ogretmenimcanim.mp3",
+    "sure": "1:50"
+  },
+  {
+    "name": "Ellerim Tombik Tombik",
+    "imgSrc": "assets/images/ellerimtombik.jpg",
+    "soundSrc": "sounds/ellerimtombik.mp3",
+    "sure": "1:20"
+  },
+  {
+    "name": "Küçük Kurbağa",
+    "imgSrc": "assets/images/kucukkurbaga.jpg",
+    "soundSrc": "sounds/kucukkurbaga.mp3",
+    "sure": "1:28"
+  },
+  {
+    "name": "Kestane Gürgen Palamut",
+    "imgSrc": "assets/images/kestane.jpg",
+    "soundSrc": "sounds/kestane.mp3",
+    "sure": "1:06"
+  },
+  {
+    "name": "Kardeş Şarkısı",
+    "imgSrc": "assets/images/kardessarkisi.jpg",
+    "soundSrc": "sounds/kardessarkisi.mp3",
+    "sure": "1:50"
+  },
+  {
+    "name": "İki Uzun Kulağım Var Benim",
+    "imgSrc": "assets/images/ikiuzunkulak.jpg",
+    "soundSrc": "sounds/ikiuzunkulak.mp3",
+    "sure": "1:12"
+  },
+  {
+    "name": "Horozumu Kaçırdılar",
+    "imgSrc": "assets/images/horoz.jpg",
+    "soundSrc": "sounds/horoz.mp3",
+    "sure": "2:07"
+  },
+  {
+    "name": "Baltalar Elimizde",
+    "imgSrc": "assets/images/baltalar.jpg",
+    "soundSrc": "sounds/baltalar.mp3",
+    "sure": "1:50"
+  },
+  {
+    "name": "Dişler",
+    "imgSrc": "assets/images/disler.jpg",
+    "soundSrc": "sounds/disler.mp3",
+    "sure": "2:03"
+  },
+  {
+    "name": "Türkçe A-B-C",
+    "imgSrc": "assets/images/abc.jpg",
+    "soundSrc": "sounds/abc.mp3",
+    "sure": "1:10"
+  },
+  {
+    "name": "Biz Tam Yedi Cüceyiz",
+    "imgSrc": "assets/images/7cuce.jpg",
+    "soundSrc": "sounds/7cuce.mp3",
+    "sure": "1:19"
+  },
+  {
+    "name": "Sar Sar Sar Makarayı",
+    "imgSrc": "assets/images/sarsar.jpg",
+    "soundSrc": "sounds/sarsar.mp3",
+    "sure": "1:35"
+  }
+]
